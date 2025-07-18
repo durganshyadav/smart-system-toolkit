@@ -60,7 +60,6 @@ smart-system-toolkit/
 │   └── user_audit.sh          # This script
 ├── .gitignore
 ├── README.md
-└── requirements.txt          # (empty, placeholder for future use)
 ```
 
 ---
