@@ -14,7 +14,7 @@ A lightweight Bash utility that generates a clean report of:
 1. **Clone the Toolkit**
    ```bash
    git clone https://github.com/durganshyadav/smart-system-toolkit.git
-   cd smart-system-toolkit/scripts
+   cd smart-system-toolkit/scripts  # to navigate
 
 2. Run the Audit Module
    bash user_audit.sh
