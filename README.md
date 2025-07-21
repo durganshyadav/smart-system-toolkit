@@ -24,6 +24,7 @@ A lightweight Bash utility that generates a clean report of:
 
 
 📋 Example Output
+
     ========== User Audit Report ==========
 Generated on: Mon Jul 15 22:30:21 IST 2025
 
